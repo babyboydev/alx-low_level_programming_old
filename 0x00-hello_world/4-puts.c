@@ -2,7 +2,7 @@
 
 /**
  * main - prints a phrase 
- * Returns 0
+ * Returns: 0
  */
 int main(void)
 {
