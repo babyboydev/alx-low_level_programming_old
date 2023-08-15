@@ -2,8 +2,8 @@
 
 /**
  * main - prints the alphabet in lowercase,
- * followed by a new line, except q and e
- * Return: Aways 0 (Sucess)
+ * followed by a new line but excludes characters e and q
+ * Return: 0
  */
 int main(void)
 {
